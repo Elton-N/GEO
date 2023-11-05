@@ -13,7 +13,7 @@ O clone da página "GEO" é uma demonstração de como criar uma página web atr
 - Integração de mapas interativos ou recursos geoespaciais (se aplicável).
 
 ## Implantar
-O projeto está disponível em  no Vercel para visualização.
+O projeto está disponível em https://elton-n.github.io/GEO/ no Vercel para visualização.
 
 Seja bem-vindo ao Clone-Geo, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
