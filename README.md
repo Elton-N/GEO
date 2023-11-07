@@ -12,6 +12,13 @@ O clone da página "GEO" é uma demonstração de como criar uma página web atr
 - Demonstração de técnicas de desenvolvimento web responsivo.
 - Integração de mapas interativos ou recursos geoespaciais (se aplicável).
 
+## Desafios
+Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
+
+A organização eficiente de elementos em linhas e colunas proporciona uma experiência de usuário agradável.
+
+Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
+
 ## Implantar
 O projeto está disponível em https://elton-n.github.io/GEO/ no Vercel para visualização.
 
